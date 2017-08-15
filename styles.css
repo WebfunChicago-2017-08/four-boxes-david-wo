@@ -1,0 +1,16 @@
+* {
+  font-size: 48px;
+}
+div div {
+  width: 64px;
+  height: 64px;
+  margin: 16px;
+  padding: 16px;
+  display: inline-block;
+}
+#the-special-one {
+  border: 8px solid blue;
+}
+.purple-box {
+  border: 8px solid purple;
+}
